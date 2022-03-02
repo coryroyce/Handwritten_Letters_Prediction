@@ -3,7 +3,7 @@
 Use EMNIST letter dataset to create a Convolution Neural Network (CNN) machine learning model to predict handwritten letters, then build an interactive demo using live prediction from the custom model.
 
 
-[Overview Slides]()
+[Overview Slides](https://github.com/coryroyce/Handwritten_Letters_Prediction/blob/main/reference/Handwritten_Letter_Presentation.pdf)
 
 [Colab Demo](https://github.com/coryroyce/Handwritten_Letters_Prediction/blob/main/streamlit_application/Streamlit_App_Letter_Classification.ipynb)
 
