@@ -5,7 +5,7 @@ Use EMNIST letter dataset to create a Convolution Neural Network (CNN) machine l
 
 [Overview Slides]()
 
-[Colab Demo]()
+[Colab Demo](https://github.com/coryroyce/Handwritten_Letters_Prediction/blob/main/streamlit_application/Streamlit_App_Letter_Classification.ipynb)
 
 # Project Overview
 1. EMNIST Letter Dataset
